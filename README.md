@@ -3,8 +3,6 @@ Quickdocs helps the user to make large copies of a microsoft word document, in w
 
 Limitation : it only works for plain text(no text style or tables or pictures etc. are duplicated).
 
-If you want to(for some weird reason) use this:
-1. First install python's docx package (pip install python-docx)
-2. Then put all the project files on the desktop in a folder named 'quickdocs' (basically, the address of each file should be like -  C:\User\Admin\Desktop\quickdocx\ <file_name>)
-3. Then just run the sample.py file and then main.py 
+If you want to(for some weird reason) use this, then first install python's docx package (pip install python-docx) and then just run main.py.
+
 (read documentation_quickdocs.pdf for more)
